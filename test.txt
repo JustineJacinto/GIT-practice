@@ -2,3 +2,5 @@ git init : Initialise a git repository
 git add [filename] : "stage" a file so it is ready to saveS
 
 anong kaplastikan toh?
+asdhfl
+lsjhffkusf
